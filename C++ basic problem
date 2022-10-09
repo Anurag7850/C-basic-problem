@@ -1,0 +1,14 @@
+Write a program in C++ to print the sum of two numbers.
+sol->
+#include<iostream>
+using namespace std;
+int main(){
+int a,b;
+cout<<"enter the first number"<<endl;
+cin>>a;
+
+cin>>b;
+cout<<"sum of two number"<<endl;
+sum=a+b;
+cout<<"enter the second number is:"<<endl;
+cout<<sum;
